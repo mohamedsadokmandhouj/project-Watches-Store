@@ -1,0 +1,11 @@
+1. Introduction
+* Nom du projet : Watches Store
+* Objectif : Créer une plateforme e-commerce pour vendre des montres de différentes marques et styles.
+* Public cible : Les passionnés de montres et les personnes à la recherche de montres de luxe, décontractées, ou connectées.
+2. Technologies à Utiliser
+* Front-end : HTML, CSS (Bootstrap), JavaScript (ou React)
+* Back-end : Node.js avec Express 
+* Base de données : MongoDB ou MySQL
+* API de paiement : Intégration avec PayPal, Stripe ou une autre passerelle de paiement
+* Hébergement : Heroku, Vercel, ou toute autre plateforme cloud
+
